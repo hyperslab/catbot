@@ -1,1 +1,142 @@
-
+[
+  {
+    "name": "Star Platinum",
+    "user": "Jotaro Kujo",
+    "part": 3,
+    "ability": "stops time for a few seconds",
+    "image": ""
+  },
+  {
+    "name": "Magician's Red",
+    "user": "Muhammed Avdol",
+    "part": 3,
+    "ability": "controls fire",
+    "image": ""
+  },
+  {
+    "name": "Hermit Purple",
+    "user": "Joseph Joestar",
+    "part": 3,
+    "abiltiy": "takes spirit photos",
+    "image": ""
+  },
+  {
+    "name": "Heirophant Green",
+    "user": "Noriaki Kakyoin",
+    "part": 3,
+    "ability": "splashes with emeralds",
+    "image": ""
+  },
+  {
+    "name": "Tower of Gray",
+    "user": "Gray Fly",
+    "part": 3,
+    "ability": "is a fly",
+    "image": ""
+  },
+  {
+    "name": "Silver Chariot",
+    "user": "Jean Pierre Polnareff",
+    "part": 3,
+    "ability": "has a sword",
+    "image": ""
+  },
+  {
+    "name": "Dark Blue Moon",
+    "user": "Impostor Captain Tennille",
+    "part": 3,
+    "ability": "is effective in water",
+    "image": ""
+  },
+  {
+    "name": "Strength",
+    "user": "Forever",
+    "part": 3,
+    "ability": "is a boat",
+    "image": ""
+  },
+  {
+    "name": "Ebony Devil",
+    "user": "Devo",
+    "part": 3,
+    "ability": "grows stronger towards anyone who has injured the user",
+    "image": ""
+  },
+  {
+    "name": "Yellow Temperance",
+    "user": "Rubber Soul",
+    "part": 3,
+    "ability": "is an ooze that eats organics to grow and can disguise itself as anyone",
+    "image": ""
+  },
+  {
+    "name": "Hanged Man",
+    "user": "J.Geil",
+    "part": 3,
+    "ability": "attacks by jumping from mirror to mirror",
+    "image": ""
+  },
+  {
+    "name": "Emperor",
+    "user": "Hol Horse",
+    "part": 3,
+    "ability": "is a gun with infinite bullets that can move mid shot",
+    "image": ""
+  },
+  {
+    "name": "Empress",
+    "user": "Nena",
+    "part": 3,
+    "ability": "fuses onto a person and grows",
+    "image": ""
+  },
+  {
+    "name": "Wheel of Fortune",
+    "user": "ZZ",
+    "part": 3,
+    "ability": "is a car",
+    "image": ""
+  },
+  {
+    "name": "Justice",
+    "user": "Enya",
+    "part": 3,
+    "ability": "is fog that strings itself through holes in people it makes from small injuries to control them like puppets",
+    "image": ""
+  },
+  {
+    "name": "Lovers",
+    "user": "Steely Dan",
+    "part": 3,
+    "ability": "goes inside someone's brain and damages them from the inside",
+    "image": ""
+  },
+  {
+    "name": "Sun",
+    "user": "Arabia Fats",
+    "part": 3,
+    "ability": "floats out of reach and simulates constant daytime",
+    "image": ""
+  },
+  {
+    "name": "Death 13",
+    "user": "Mannish Boy",
+    "part": 3,
+    "ability": "attacks from inside dreams",
+    "image": ""
+  },
+  {
+    "name": "Judgement",
+    "user": "Cameo",
+    "part": 3,
+    "ability": "grants wishes that ultimately harm the wisher",
+    "image": ""
+  },
+  {
+    "name": "High Priestess",
+    "user": "Midler",
+    "part": 3,
+    "ability": "camoflauges with metal",
+    "image": ""
+  }
+]
