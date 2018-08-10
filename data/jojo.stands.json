@@ -138,5 +138,96 @@
     "part": 3,
     "ability": "camoflauges with metal",
     "image": ""
+  },
+  {
+    "name": "The Fool",
+    "user": "Iggy",
+    "part": 3,
+    "ability": "is made of sand",
+    "image": ""
+  },
+  {
+    "name": "Geb",
+    "user": "N'Doul",
+    "part": 3,
+    "ability": "is water",
+    "image": ""
+  },
+  {
+    "name": "Khnum",
+    "user": "Oingo".
+    "part": 3,
+    "ability": "allows the user to disguise as other people",
+    "image": ""
+  },
+  {
+    "name": "Tohth",
+    "user": "Boingo",
+    "part": 3,
+    "ability": "is a manga that shows the unchangeable future",
+    "image": "",
+  },
+  {
+    "name": "Anubis",
+    "user": "Caravan Serai",
+    "part": 3,
+    "ability": "is a sword that controls whoever unsheaths it",
+    "image": ""
+  },
+  {
+    "name": "Bastet",
+    "user": "Mariah",
+    "part": 3,
+    "ability": "is an electrical outlet that shocks whoever touches it which causes them to grow increasingly magnetized",
+    "image": ""
+  },
+  {
+    "name": "Sethan",
+    "user": "Alessi",
+    "part": 3,
+    "ability": "resides in the user's shadow and causes people to de-age rapidly as long as they are touching it",
+    "image": ""
+  },
+  {
+    "name": "Osiris",
+    "user": "Daniel J. D'Arby",
+    "part": 3,
+    "ability": "allows souls to be wagered by turning opponents who lose their soul into chips",
+    "image": ""
+  },
+  {
+    "name": "Horus",
+    "user": "Pet Shop",
+    "part": 3,
+    "ability": "bestows upon its user the power of cryokenesis",
+    "image": ""
+  },
+  {
+    "name": "Atum",
+    "user": "Terrence T. D'Arby",
+    "part": 3,
+    "ability": "allows souls to be wagered by turning opponents who lose their soul into dolls and gives the user basic mind-reading powers",
+    "image": ""
+  },
+  {
+    "name": "Tenore Sax",
+    "user": "Kenny G.",
+    "part": 3,
+    "ability": "creates illusions causing houses to appear as complex mazes",
+    "image": ""
+  },
+  {
+    "name": "Cream",
+    "user": "Vanilla Ice",
+    "part": 3,
+    "ability": "consumes any object into a ball of void, including itself",
+    "image": ""
+  },
+  {
+    "name": "The World",
+    "user": "DIO",
+    "part": 3,
+    "ability": "stops time for a few seconds",
+    "image": ""
   }
 ]
